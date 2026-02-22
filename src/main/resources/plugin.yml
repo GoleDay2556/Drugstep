@@ -1,0 +1,7 @@
+name: SkriptModuleLoader
+version: 1.2.2
+main: me.lancastersstudios.skriptloader.SkriptModuleLoader
+api-version: 1.21
+depend: [Skript]
+author: Lancasters Studios
+description: Modular Skript loader with bundled script support
