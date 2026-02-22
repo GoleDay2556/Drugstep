@@ -1,6 +1,6 @@
-name: SkriptModuleLoader
-version: 1.2.2
-main: me.lancastersstudios.skriptloader.SkriptModuleLoader
+name: Drugsters
+version: 0.0.1
+main: me.lancastersstudios.skriptloader.Drugsters
 api-version: 1.21
 depend: [Skript]
 author: Lancasters Studios
